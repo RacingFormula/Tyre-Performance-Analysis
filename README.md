@@ -17,7 +17,7 @@ Explores the impact of wet track conditions on rain tyre performance.
 Simulates tyre temperature dynamics and their effect on grip.
 
 ### 5. [Optimal Tyre Management](#)
-Optimizes tyre usage for minimal degradation and maximum performance.
+Optimises tyre usage for minimal degradation and maximum performance.
 
 ## Usage
 
