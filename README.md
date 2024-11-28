@@ -4,7 +4,7 @@ This parent repository organises various projects focused on analysing and optim
 
 ## Projects
 
-### 1. [Tyre Wear Model](#)
+### 1. [Tyre Wear Model](https://github.com/RacingFormula/Tyre-Wear-Model)
 Simulates tyre degradation over race distance and provides tools to predict tyre life.
 
 ### 2. [Tyre Compound Analysis](#)
