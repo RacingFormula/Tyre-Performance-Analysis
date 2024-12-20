@@ -7,16 +7,16 @@ This parent repository organises various projects focused on analysing and optim
 ### 1. [Tyre Wear Model](https://github.com/RacingFormula/Tyre-Wear-Model)
 Simulates tyre degradation over race distance and provides tools to predict tyre life.
 
-### 2. [Tyre Compound Analysis](#)
+### 2. [Tyre Compound Analysis](https://github.com/RacingFormula/Tyre-Compound-Analysis)
 Compares the performance of different tyre compounds, including grip and degradation rates.
 
-### 3. [Rain Tyre Performance](#)
+### 3. [Rain Tyre Performance](https://github.com/RacingFormula/Rain-Tyre-Performance)
 Explores the impact of wet track conditions on rain tyre performance.
 
-### 4. [Tyre Temperature Simulator](#)
+### 4. [Tyre Temperature Simulator](https://github.com/RacingFormula/Tyre-Temperature-Simulator)
 Simulates tyre temperature dynamics and their effect on grip.
 
-### 5. [Optimal Tyre Management](#)
+### 5. [Optimal Tyre Management](https://github.com/RacingFormula/Optimal-Tyre-Management)
 Optimises tyre usage for minimal degradation and maximum performance.
 
 ## Usage
